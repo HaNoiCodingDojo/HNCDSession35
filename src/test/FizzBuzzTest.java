@@ -46,5 +46,9 @@ public class FizzBuzzTest {
 		assertEquals(3, FizzBuzz.askForFizz(9));
 	}
 	
+	@Test
+	public void test10Return2Buzz() {
+		assertEquals(2, FizzBuzz.askForBuzz(10));
+	}
 	
 }

@@ -10,7 +10,8 @@ public class FizzBuzz {
 
 	public static int askForBuzz(int number)
 	{
-		if ( number == 5) return (1);
+		if (number >=10) return(2);
+		if (number >= 5) return (1);
 		return(0);
 	}
 	
