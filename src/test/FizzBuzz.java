@@ -7,4 +7,9 @@ public class FizzBuzz {
 	{
 		return(0);
 	}
+
+	public static int askForBuzz(int number)
+	{
+		return(0);
+	}
 }
