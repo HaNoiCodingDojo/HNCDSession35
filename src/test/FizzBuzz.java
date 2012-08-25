@@ -15,4 +15,5 @@ public class FizzBuzz {
 		if ( number == 5) return (1);
 		return(0);
 	}
+	
 }
