@@ -42,7 +42,6 @@ public class FizzBuzzTest {
 	@Test
 	public void test9Return3Fizz() {
 		assertEquals(3, FizzBuzz.askForFizz(9));
-		
 	}
 	
 	
