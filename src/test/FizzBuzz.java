@@ -7,7 +7,7 @@ public class FizzBuzz {
 	{
 		if ( number == 3) return (1);
 		if (number == 6) return (2);
-		
+		if ( number == 4 ) return (1);		
 		return(0);
 	}
 
