@@ -5,7 +5,7 @@ public class FizzBuzz {
 	
 	public static int askForFizz(int number)
 	{
-		if (number == 6) return (2);
+		if (number >= 6) return (2);
 		if ( number >= 3 ) return (1);		
 		return(0);
 	}
@@ -15,5 +15,6 @@ public class FizzBuzz {
 		if ( number == 5) return (1);
 		return(0);
 	}
+	
 	
 }
